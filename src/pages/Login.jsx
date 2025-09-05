@@ -5,7 +5,7 @@ import { toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 import axios from "axios";
 import { AuthContext } from "../context/AuthContext.jsx";
-import bgLoginImg from "../assets/bgLogin.png"; // Ensure this path is correct
+// import bgLoginImg from "../assets/bgLogin.png"; // Ensure this path is correct
 import ScrollToTopButton from "../components/ScrollToTopButton.jsx";
 
 const Login = () => {
@@ -60,7 +60,7 @@ const Login = () => {
         // }}
         
       >
-        <img src={bgLoginImg} alt="Login Background" />
+        <img src="https://plus.unsplash.com/premium_photo-1686469325065-ed31d17145da?q=80&w=1116&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Login Background" />
       </div>
       <div className="w-full md:w-1/2 flex items-center justify-center  p-4 sm:p-6 md:p-8">
         <div className="w-full max-w-md">

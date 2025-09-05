@@ -249,7 +249,7 @@ import "react-toastify/dist/ReactToastify.css";
 import axios from "axios";
 import { ethers } from "ethers";
 import { AuthContext } from "../context/AuthContext.jsx";
-import bgregisterImg from "../assets/bglogin.png"; // Ensure this path is correct
+// import bgregisterImg from "../assets/bglogin.png"; // Ensure this path is correct
 // import metamaskIcon from "../assets/metamask-icon.png"; // Add a local MetaMask icon
 import ScrollToTopButton from "../components/ScrollToTopButton.jsx";
 
@@ -416,7 +416,7 @@ const Register = () => {
     <>
       <div className="w-[90%] font-mono m-auto mb-2 h-[90vh] items-center justify-center flex flex-col md:flex-row">
         <div className="w-full md:w-1/2 bg-cover bg-center flex m-auto md:h-auto">
-          <img src={bgregisterImg} alt="Register Background" className="w-full h-full object-cover" />
+          <img src="https://plus.unsplash.com/premium_photo-1686469325065-ed31d17145da?q=80&w=1116&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"  alt="Register Background" className="w-full h-full object-cover" />
         </div>
         <div className="w-full md:w-1/2 flex items-center justify-center p-4 sm:p-6 md:p-8">
           <div className="w-full max-w-md">
