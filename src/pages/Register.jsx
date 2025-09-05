@@ -249,7 +249,7 @@ import "react-toastify/dist/ReactToastify.css";
 import axios from "axios";
 import { ethers } from "ethers";
 import { AuthContext } from "../context/AuthContext.jsx";
-import bgregisterImg from "../assets/bgLogin.png"; // Ensure this path is correct
+import bgregisterImg from "../assets/bglogin.png"; // Ensure this path is correct
 // import metamaskIcon from "../assets/metamask-icon.png"; // Add a local MetaMask icon
 import ScrollToTopButton from "../components/ScrollToTopButton.jsx";
 
