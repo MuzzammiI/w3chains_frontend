@@ -100,7 +100,7 @@ import { useParams, useNavigate } from 'react-router-dom';
 import { FaTwitter, FaFacebookF, FaLinkedinIn, FaLink } from 'react-icons/fa';
 
 // Assuming these are the correct paths to your services and components
-import { getNewsById, getNews } from '../../Services/newsAPIs.js';
+import { fetchNewsById,fetchNews} from '../../Services/newsAPIs.js';
 import defaultNewsImage from '../../assets/img1.png';
 import LoadingBlurOverlay from '../../components/LoadingBlurOverlay.jsx';
 import ScrollToTopButton from '../../components/ScrollToTopButton.jsx';
@@ -120,12 +120,12 @@ const NewsDetailPage = () => {
       setError(null);
       try {
         // Fetch the main news article
-        const mainNewsResponse = await getNewsById(collection, id);
+        const mainNewsResponse = await fetchNewsById(collection, id);
         if (mainNewsResponse.success) {
           setNewsItem(mainNewsResponse.data);
-          
-          // Fetch related news using the provided getNews function
-          const relatedNewsResponse = await getNews(collection, 1, 5); // Fetch 5 related articles
+
+          // Fetch related news using the provided fetchNews function
+          const relatedNewsResponse = await fetchNews(collection, 1, 5); // Fetch 5 related articles
           if (relatedNewsResponse.success) {
             setRelatedNews(relatedNewsResponse.data.filter(item => item._id !== id));
           } else {
