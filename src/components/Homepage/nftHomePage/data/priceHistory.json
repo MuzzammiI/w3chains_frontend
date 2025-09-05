@@ -1,0 +1,104 @@
+{
+  "exchanges": [
+    { "id": "opensea", "name": "OpenSea", "color": "#2081e2", "fee": 0.025 },
+    { "id": "rarible", "name": "Rarible", "color": "#feda03", "fee": 0.02 },
+    { "id": "binance", "name": "Binance NFT", "color": "#f0b90b", "fee": 0.01 },
+    { "id": "superrare", "name": "SuperRare", "color": "#f93075", "fee": 0.03 },
+    { "id": "polygon", "name": "Polygon", "color": "blue", "fee": 0.005 },
+    { "id": "zora", "name": "Zora", "color": "green", "fee": 0.0075 }
+  ],
+  "nftItems": [
+    "Galactic Voyager",
+    "Cyberpunk Cityscape",
+    "Mystical Forest Spirit",
+    "Abstract Flow",
+    "Robo Buddy",
+    "Pixel Utopia",
+    "Crypto Automaton #12",
+    "Quantum Feline #7",
+    "Pixel Voyager #88",
+    "Celestial Sphere #3"
+  ],
+  "priceData": {
+    "Galactic Voyager": {
+      "opensea": [],
+      "rarible": [],
+      "binance": [],
+      "superrare": [],
+      "polygon": [],
+      "zora": []
+    },
+    "Cyberpunk Cityscape": {
+      "opensea": [],
+      "rarible": [],
+      "binance": [],
+      "superrare": [],
+      "polygon": [],
+      "zora": []
+    },
+    "Mystical Forest Spirit": {
+      "opensea": [],
+      "rarible": [],
+      "binance": [],
+      "superrare": [],
+      "polygon": [],
+      "zora": []
+    },
+    "Abstract Flow": {
+      "opensea": [],
+      "rarible": [],
+      "binance": [],
+      "superrare": [],
+      "polygon": [],
+      "zora": []
+    },
+    "Robo Buddy": {
+      "opensea": [],
+      "rarible": [],
+      "binance": [],
+      "superrare": [],
+      "polygon": [],
+      "zora": []
+    },
+    "Pixel Utopia": {
+      "opensea": [],
+      "rarible": [],
+      "binance": [],
+      "superrare": [],
+      "polygon": [],
+      "zora": []
+    },
+    "Crypto Automaton #12": {
+      "opensea": [],
+      "rarible": [],
+      "binance": [],
+      "superrare": [],
+      "polygon": [],
+      "zora": []
+    },
+    "Quantum Feline #7": {
+      "opensea": [],
+      "rarible": [],
+      "binance": [],
+      "superrare": [],
+      "polygon": [],
+      "zora": []
+    },
+    "Pixel Voyager #88": {
+      "opensea": [],
+      "rarible": [],
+      "binance": [],
+      "superrare": [],
+      "polygon": [],
+      "zora": []
+    },
+    "Celestial Sphere #3": {
+      "opensea": [],
+      "rarible": [],
+      "binance": [],
+      "superrare": [],
+      "polygon": [],
+      "zora": []
+    }
+  }
+}

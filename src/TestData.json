@@ -1,0 +1,1486 @@
+{
+  "name": "Ethereum",
+  "symbol": "ETH",
+  "price": 4000.23,
+  "icon": "🔷",
+  "logo": "https://placehold.co/40x40/4A4A4A/FFFFFF?text=ETH",
+  "marketCap": 367.73,
+  "rank": 2,
+  "volume24h": 18.77,
+  "supply": 120.27,
+  "info": {
+    "website": "https://ethereum.org/en/",
+    "whitepaper": "https://ethereum.org/en/whitepaper/",
+    "blockExplorers": ["https://etherscan.io/"],
+    "github": "https://github.com/ethereum"
+  },
+  "about": "Ethereum is a global, decentralized platform for money and new kinds of applications. On Ethereum, you can write code that controls digital value, runs exactly as programmed, and is accessible anywhere in the world. It is the second-largest cryptocurrency by market capitalization after Bitcoin. Ethereum is not just a cryptocurrency; it's a technology that lets you send cryptocurrency to anyone for a small fee, and power decentralized applications (dApps) that everyone can use and no one can take down.\n\nThe Ethereum network is constantly evolving, with ongoing upgrades aimed at improving its scalability, security, and sustainability. The most significant of these was \"The Merge,\" which transitioned Ethereum from a Proof-of-Work (PoW) to a Proof-of-Stake (PoS) consensus mechanism, drastically reducing its energy consumption.",
+  "founders": [
+    {
+      "id": 1,
+      "name": "Vitalik Buterin",
+      "role": "Creator",
+      "bio": "A Russian-Canadian programmer and writer who is primarily known as one of the co-founders of Ethereum.",
+      "imageUrl": "https://placehold.co/80x80/4A4A4A/FFFFFF?text=VB",
+      "socialLinks": {
+        "twitter": "https://twitter.com/VitalikButerin",
+        "github": "https://github.com/vbuterin",
+        "website": "https://vitalik.ca/"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Gavin Wood",
+      "role": "Co-founder",
+      "bio": "A British computer scientist who is a co-founder of Ethereum and creator of Polkadot and Kusama.",
+      "imageUrl": "https://placehold.co/80x80/4A4A4A/FFFFFF?text=GW",
+      "socialLinks": {
+        "twitter": "https://twitter.com/gavofyork",
+        "github": "https://github.com/gavofyork",
+        "website": "https://gavwood.com/"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Charles Hoskinson",
+      "role": "Co-founder",
+      "bio": "An American entrepreneur who is a co-founder of Ethereum and founder of Cardano.",
+      "imageUrl": "https://placehold.co/80x80/4A4A4A/FFFFFF?text=CH",
+      "socialLinks": {
+        "twitter": "https://twitter.com/IOHK_Charles",
+        "github": "https://github.com/input-output-hk",
+        "website": "https://iohk.io/"  
+      }
+    },
+    {
+      "id": 4,
+      "name": "Anthony Di Iorio",
+      "role": "Co-founder",
+      "bio": "A Canadian entrepreneur and venture capitalist who is a co-founder of Ethereum.",
+      "imageUrl": "https://placehold.co/80x80/4A4A4A/FFFFFF?text=AD",
+      "socialLinks": {
+        "twitter": "https://twitter.com/diiorioanthony",
+        "website": "https://anthony.diiorio.ca/"
+      }
+    }
+  ],
+  "news": [
+    {
+      "id": 1,
+      "title": "Grayscale Files Confidential Application for IPO With New Ethereum Trust",
+      "content": "Details about Grayscale's IPO application for a new Ethereum Trust. This is a longer content to demonstrate scrolling within the detail page. Grayscale Investments, the world's largest digital asset manager, has confidentially filed an application with the SEC to convert its Ethereum Trust into an Exchange Traded Fund (ETF). This move signals growing institutional interest in Ethereum and could pave the way for more mainstream adoption of the cryptocurrency. The filing is a significant step, following similar efforts for Bitcoin ETFs, and highlights the increasing maturity of the digital asset market.",
+      "tags": ["Market", "Investment", "Ethereum"],
+      "imageUrl": "https://images.unsplash.com/photo-1660030584437-10c529d4a6cb?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8ZXRoZXJldW0lMjBuZXdzfGVufDB8fDB8fHww"
+    },
+    {
+      "id": 2,
+      "title": "Ethereum Price Surges Amidst Market Optimism",
+      "content": "Analysis of the recent price surge and market sentiment. The price of Ethereum (ETH) has seen a significant surge over the past week, driven by renewed market optimism and positive developments within the ecosystem. Analysts point to increasing DeFi activity and anticipation around upcoming network upgrades as key factors. Investors are closely watching the market for further signs of a bull run, with many predicting ETH to reach new all-time highs in the near future. The overall sentiment in the crypto market remains bullish, supporting Ethereum's upward trajectory.",
+      "tags": ["Market", "Price", "Ethereum"],
+      "imageUrl": "https://images.unsplash.com/photo-1660030584437-10c529d4a6cb?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8ZXRoZXJldW0lMjBuZXdzfGVufDB8fDB8fHww"
+    },
+    {
+      "id": 3,
+      "title": "Vitalik Buterin Discusses Ethereum's Future Roadmap",
+      "content": "Key takeaways from Vitalik's latest presentation on Ethereum's development. Vitalik Buterin, co-founder of Ethereum, recently shared insights into the network's long-term roadmap during a virtual conference. He emphasized continued focus on scalability, security, and decentralization, outlining plans for further sharding implementation and improvements to the Proof-of-Stake mechanism. Buterin also touched upon the importance of layer-2 solutions in enhancing user experience and reducing transaction costs. His vision reinforces Ethereum's commitment to becoming a global, scalable, and sustainable blockchain platform.",
+      "tags": ["Technology", "Development", "Ethereum"],
+      "imageUrl": "https://images.unsplash.com/photo-1660030584437-10c529d4a6cb?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8ZXRoZXJldW0lMjBuZXdzfGVufDB8fDB8fHww"
+    },
+    {
+      "id": 4,
+      "title": "New DeFi Protocol Launches on Ethereum Network",
+      "content": "Overview of a new decentralized finance application. A groundbreaking new DeFi protocol, \"YieldNexus,\" has officially launched on the Ethereum network, promising innovative yield farming opportunities. The protocol aims to optimize liquidity provision and enhance returns for users through advanced algorithmic strategies. Early adopters are reporting promising results, and the project has quickly gained traction within the DeFi community. This launch further solidifies Ethereum's position as the leading platform for decentralized finance innovation.",
+      "tags": ["DeFi", "Technology"],
+      "imageUrl": "https://images.unsplash.com/photo-1660030584437-10c529d4a6cb?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8ZXRoZXJldW0lMjBuZXdzfGVufDB8fDB8fHww"
+    },
+    {
+      "id": 5,
+      "title": "Ethereum Gas Fees See Significant Drop",
+      "content": "Report on the recent reduction in transaction costs. Ethereum gas fees have experienced a notable decline recently, providing much-needed relief to users and developers. This reduction is attributed to a combination of factors, including network optimization, increased adoption of layer-2 scaling solutions, and a temporary decrease in network congestion. Lower gas fees make transactions more affordable and accessible, fostering greater participation in the Ethereum ecosystem and encouraging the development of new dApps.",
+      "tags": ["Technology", "Fees"],
+      "imageUrl": "https://media.istockphoto.com/id/909000600/photo/golden-coins-on-circuit-board-3d-rendering.webp?a=1&b=1&s=612x612&w=0&k=20&c=dR7TtIuXDxvWB-1EXzcRdwyswFzhiZeoXfohTVy8Q-w="
+    },
+    {
+      "id": 6,
+      "title": "Major Upgrade to Ethereum's Scaling Solutions Announced",
+      "content": "Details on the latest advancements in layer-2 technologies.",
+      "tags": ["Technology", "Scaling"],
+      "imageUrl": "https://media.istockphoto.com/id/948542404/photo/3d-rendering-of-human-brain-on-technology-background.webp?a=1&b=1&s=612x612&w=0&k=20&c=KTkIOtKDeZSDmHV5XUZgcoICO7k4vTlQ7-brDxuNSbk="
+    },
+    {
+      "id": 7,
+      "title": "Ethereum NFT Market Reaches All-Time Highs",
+      "content": "Insights into the booming non-fungible token ecosystem.",
+      "tags": ["NFT", "Market"],
+      "imageUrl": "https://media.istockphoto.com/id/123456789/photo/nft-art-collection.webp?a=1&b=1&s=612x612&w=0&k=20&c=ABC123"
+    },
+    {
+      "id": 8,
+      "title": "Enterprise Ethereum Alliance Welcomes New Members",
+      "content": "List of new companies joining the EEA and their contributions.",
+      "tags": ["Enterprise", "Partnership"],
+      "imageUrl": "https://media.istockphoto.com/id/123456789/photo/nft-art-collection.webp?a=1&b=1&s=612x612&w=0&k=20&c=ABC123"
+    },
+    {
+      "id": 9,
+      "title": "New Privacy Coin Gains Traction on Ethereum",
+      "date": "May 31, 2018"
+    },
+    {
+      "id": 10,
+      "title": "Ethereum 2.0 Staking Update",
+      "date": "May 30, 2018"
+    },
+    {
+      "id": 11,
+      "title": "Layer 2 Solutions Gaining Adoption",
+      "date": "May 29, 2018"
+    },
+    {
+      "id": 12,
+      "title": "DeFi Protocols on Ethereum Expand",
+      "date": "May 28, 2018"
+    },
+    {
+      "id": 13,
+      "title": "NFT Market on Ethereum Surges",
+      "date": "May 27, 2018"
+    },
+    {
+      "id": 14,
+      "title": "EIP-1559 Implementation Details",
+      "date": "May 26, 2018"
+    },
+    {
+      "id": 15,
+      "title": "Ethereum Developer Conference Announced",
+      "date": "May 25, 2018"
+    },
+    {
+      "id": 16,
+      "title": "Gas Fees Optimization Strategies",
+      "date": "May 24, 2018"
+    },
+    {
+      "id": 17,
+      "title": "New dApp Launches on Ethereum",
+      "date": "May 23, 2018"
+    },
+    {
+      "id": 18,
+      "title": "Scalability Solutions for Ethereum",
+      "date": "May 22, 2018"
+    }
+  ],
+  "newsSlider": [
+    {
+      "id": 1,
+      "category": "BUSINESS",
+      "title": "Metaverse Real Estate Sales Soar on Ethereum",
+      "date": "February 5, 2018",
+      "description": "A cutting-edge Layer 2 scaling solution has officially gone live, promising significantly faster and cheaper transactions on the Ethereum network.",
+      "imageUrl": "https://images.unsplash.com/photo-1639322537228-fefdecd17e57?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 2,
+      "category": "TECHNOLOGY",
+      "title": "Decentralized AI Breakthrough on Ethereum",
+      "date": "March 10, 2018",
+      "description": "Researchers announce a major breakthrough in decentralized artificial intelligence, enabling more secure and private computations on Ethereum.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943506-eddc17117c14?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 3,
+      "category": "FINANCE",
+      "title": "DeFi Lending Protocols See Record Growth on Ethereum",
+      "date": "April 20, 2018",
+      "description": "Decentralized finance (DeFi) lending protocols on Ethereum have reached new highs in total value locked, indicating strong market confidence.",
+      "imageUrl": "https://images.unsplash.com/photo-1628348704284-377033571d79?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    }
+  ],
+  "newsCards": [
+    {
+      "id": 1,
+      "category": "MARKET",
+      "title": "Ethereum Gas Fees Drop Significantly",
+      "author": "John Doe",
+      "date": "March 10, 2018",
+      "imageUrl": "https://placehold.co/200x150/0000FF/FFFFFF?text=ETH+NEWS+1",
+      "description": "Recent network upgrades have led to a noticeable reduction in transaction costs on Ethereum."
+    },
+    {
+      "id": 2,
+      "category": "MARKET",
+      "title": "New NFT Standard Proposed for Ethereum",
+      "author": "Crypto Analyst",
+      "date": "March 10, 2018",
+      "imageUrl": "https://placehold.co/200x150/00FF00/000000?text=ETH+NEWS+2",
+      "description": "A new ERC standard aims to improve interoperability for NFTs across different platforms."
+    },
+    {
+      "id": 3,
+      "category": "BUSINESS",
+      "title": "Major Brand Launches NFT Collection on Ethereum",
+      "author": "Blockchain Expert",
+      "date": "April 20, 2018",
+      "imageUrl": "https://placehold.co/200x150/0000FF/FFFFFF?text=ETH+NEWS+3",
+      "description": "A globally recognized brand enters the NFT space, choosing Ethereum for its debut collection."
+    },
+    {
+      "id": 4,
+      "category": "MARKET",
+      "title": "Ethereum DeFi TVL Hits New Record High",
+      "author": "Admin",
+      "date": "February 5, 2018",
+      "imageUrl": "https://placehold.co/200x150/00FF00/000000?text=ETH+NEWS+4",
+      "description": "The total value locked in Ethereum-based DeFi protocols continues its upward trajectory."
+    },
+    {
+      "id": 5,
+      "category": "DEFI",
+      "title": "New Lending Protocol Secures $50M on Ethereum",
+      "author": "Jane Smith",
+      "date": "May 31, 2018",
+      "imageUrl": "https://placehold.co/200x150/FF00FF/FFFFFF?text=ETH+NEWS+5",
+      "description": "A promising new decentralized lending platform successfully closes its funding round."
+    },
+    {
+      "id": 6,
+      "category": "MARKET",
+      "title": "Ethereum Scaling Solutions Show Promise",
+      "author": "Crypto Analyst",
+      "date": "April 20, 2018",
+      "imageUrl": "https://placehold.co/200x150/00FF00/000000?text=ETH+NEWS+6",
+      "description": "Early results from various Layer 2 solutions indicate significant improvements in transaction throughput."
+    },
+    {
+      "id": 7,
+      "category": "TECHNOLOGY",
+      "title": "Ethereum Smart Contract Vulnerability Patched",
+      "author": "Tech Innovator",
+      "date": "June 1, 2018",
+      "imageUrl": "https://placehold.co/200x150/FF0000/FFFFFF?text=ETH+NEWS+7",
+      "description": "A critical bug in a widely used smart contract library has been identified and fixed."
+    },
+    {
+      "id": 8,
+      "category": "BUSINESS",
+      "title": "Ethereum Blockchain Adopted by Supply Chain",
+      "author": "Market Watch",
+      "date": "June 5, 2018",
+      "imageUrl": "https://placehold.co/200x150/0000FF/FFFFFF?text=ETH+NEWS+8",
+      "description": "A major logistics company is integrating Ethereum for transparent and efficient supply chain management."
+    },
+    {
+      "id": 9,
+      "category": "REGULATION",
+      "title": "SEC Eyes Ethereum DeFi Regulations",
+      "author": "Policy Expert",
+      "date": "June 10, 2018",
+      "imageUrl": "https://placehold.co/200x150/FFFF00/000000?text=ETH+NEWS+9",
+      "description": "Regulators are beginning to focus on the decentralized finance sector on Ethereum for potential oversight."
+    },
+    {
+      "id": 10,
+      "category": "MARKET",
+      "title": "Ethereum Price Volatility Continues",
+      "author": "Trader Joe",
+      "date": "June 15, 2018",
+      "imageUrl": "https://placehold.co/200x150/00FF00/000000?text=ETH+NEWS+10",
+      "description": "Market analysts discuss the factors contributing to recent price swings in Ethereum."
+    },
+    {
+      "id": 11,
+      "category": "TECHNOLOGY",
+      "title": "Ethereum 2.0 Testnet Progress",
+      "author": "Dev Team",
+      "date": "July 1, 2018",
+      "imageUrl": "https://placehold.co/200x150/FF0000/FFFFFF?text=ETH+NEWS+11",
+      "description": "Significant milestones achieved in the development and testing of Ethereum 2.0."
+    },
+    {
+      "id": 12,
+      "category": "BUSINESS",
+      "title": "New Gaming Platform on Ethereum",
+      "author": "Gaming News",
+      "date": "July 5, 2018",
+      "imageUrl": "https://placehold.co/200x150/0000FF/FFFFFF?text=ETH+NEWS+12",
+      "description": "A blockchain-based gaming platform is set to revolutionize the gaming industry on Ethereum."
+    }
+  ],
+  "pressReleases": [
+    {
+      "id": 1,
+      "title": "Ethereum Foundation Grant Program Opens",
+      "date": "February 3, 2018"
+    },
+    {
+      "id": 2,
+      "title": "ConsenSys Announces New Ethereum Tools",
+      "date": "February 6, 2018"
+    },
+    {
+      "id": 3,
+      "title": "Major Enterprise Adopts Ethereum Blockchain",
+      "date": "February 7, 2018"
+    },
+    {
+      "id": 4,
+      "title": "Ethereum Alliance Releases Whitepaper",
+      "date": "February 8, 2018"
+    },
+    {
+      "id": 5,
+      "title": "New Security Audit for Ethereum Smart Contracts",
+      "date": "February 9, 2018"
+    },
+    {
+      "id": 6,
+      "title": "DevCon Schedule and Speakers Revealed",
+      "date": "February 10, 2018"
+    },
+    {
+      "id": 7,
+      "title": "Ethereum Scaling Roadmap Update",
+      "date": "February 11, 2018"
+    },
+    {
+      "id": 8,
+      "title": "Partnership with Gaming Giant Announced",
+      "date": "February 12, 2018"
+    }
+  ],
+  "releases": [
+    {
+      "id": 1,
+      "title": "Ethereum Foundation Announces Major Grant Recipients for Q2",
+      "date": "2023-06-15",
+      "type": "Press Release",
+      "content": "The Ethereum Foundation has revealed the latest recipients of its grant program, funding key infrastructure and research projects aimed at advancing the Ethereum ecosystem. This round focuses heavily on Layer 2 scaling solutions and privacy-enhancing technologies.",
+      "sentiment": "positive",
+      "impactScore": 4,
+      "tags": ["Grants", "Foundation", "L2", "Privacy"]
+    },
+    {
+      "id": 2,
+      "title": "New DeFi Protocol Launches on Ethereum, Offers High Yields",
+      "date": "2023-06-10",
+      "type": "Market Release",
+      "content": "A new decentralized finance (DeFi) protocol, \"YieldMax,\" has launched on the Ethereum mainnet, promising innovative yield farming strategies and high APYs for liquidity providers. Initial audits show promising security features.",
+      "sentiment": "positive",
+      "impactScore": 5,
+      "tags": ["DeFi", "Yield Farming", "Launch"]
+    },
+    {
+      "id": 3,
+      "title": "Ethereum Gas Fees See Temporary Spike Due to NFT Mint",
+      "date": "2023-06-08",
+      "type": "Market Release",
+      "content": "Ethereum network experienced a brief but significant surge in gas fees today, attributed to the highly anticipated mint of the \"CryptoPunks V2\" NFT collection. This highlights continued demand for block space.",
+      "sentiment": "negative",
+      "impactScore": 3,
+      "tags": ["Gas Fees", "NFT", "Network Congestion"]
+    },
+    {
+      "id": 4,
+      "title": "ConsenSys Releases Q2 Ethereum Developer Report",
+      "date": "2023-06-01",
+      "type": "Press Release",
+      "content": "ConsenSys has published its quarterly report on Ethereum developer activity, indicating robust growth in smart contract deployments and active developer addresses. The report emphasizes the increasing adoption of Web3 tools.",
+      "sentiment": "positive",
+      "impactScore": 4,
+      "tags": ["Developer", "Report", "Web3"]
+    },
+    {
+      "id": 5,
+      "title": "Major Exchange Integrates More Ethereum-based Tokens",
+      "date": "2023-05-28",
+      "type": "Market Release",
+      "content": "Coinbase announced the listing of several new ERC-20 tokens, expanding its offerings for Ethereum users. This move is expected to increase liquidity and accessibility for these assets.",
+      "sentiment": "positive",
+      "impactScore": 4,
+      "tags": ["Exchange", "Listing", "ERC-20"]
+    },
+    {
+      "id": 6,
+      "title": "Ethereum Scaling Solution Arbitrum Announces Nitro Upgrade",
+      "date": "2023-05-25",
+      "type": "Press Release",
+      "content": "Arbitrum, a leading Ethereum Layer 2 solution, has announced the successful deployment of its \"Nitro\" upgrade, promising even faster transaction speeds and lower costs. This is a significant step towards greater scalability.",
+      "sentiment": "positive",
+      "impactScore": 5,
+      "tags": ["L2", "Upgrade", "Arbitrum"]
+    },
+    {
+      "id": 7,
+      "title": "Security Vulnerability Discovered in Popular Ethereum dApp",
+      "date": "2023-05-20",
+      "type": "Market Release",
+      "content": "A critical security vulnerability was identified in a widely used Ethereum decentralized application. Users are advised to withdraw funds immediately. The team is working on a patch.",
+      "sentiment": "negative",
+      "impactScore": 5,
+      "tags": ["Security", "Vulnerability", "dApp"]
+    },
+    {
+      "id": 8,
+      "title": "Ethereum Community Discusses Future of Sharding",
+      "date": "2023-05-18",
+      "type": "Press Release",
+      "content": "Core Ethereum developers and researchers held a public discussion on the long-term roadmap for sharding, exploring various approaches to further enhance network capacity post-Merge.",
+      "sentiment": "neutral",
+      "impactScore": 3,
+      "tags": ["Sharding", "Roadmap", "Development"]
+    },
+    {
+      "id": 9,
+      "title": "NFT Gaming Project Raises $50M in Seed Round on Ethereum",
+      "date": "2023-05-12",
+      "type": "Market Release",
+      "content": "A new play-to-earn NFT gaming project, \"EtherQuest,\" successfully closed a $50 million seed funding round, attracting significant institutional investment. The game is built on Ethereum.",
+      "sentiment": "positive",
+      "impactScore": 4,
+      "tags": ["NFT Gaming", "Funding", "P2E"]
+    },
+    {
+      "id": 10,
+      "title": "Ethereum Merge Successfully Completed, Transition to PoS",
+      "date": "2022-09-15",
+      "type": "Press Release",
+      "content": "The Ethereum network successfully completed \"The Merge,\" transitioning from Proof-of-Work (PoW) to Proof-of-Stake (PoS). This marks a monumental shift towards a more energy-efficient and scalable blockchain.",
+      "sentiment": "positive",
+      "impactScore": 5,
+      "tags": ["Merge", "PoS", "Network Upgrade"]
+    },
+    {
+      "id": 11,
+      "title": "Decentralized Social Media Platform Gains Traction on Ethereum",
+      "date": "2023-04-25",
+      "type": "Market Release",
+      "content": "Lens Protocol, a decentralized social media graph, has seen a surge in user adoption and content creation, showcasing the potential of Web3 social applications on Ethereum.",
+      "sentiment": "positive",
+      "impactScore": 3,
+      "tags": ["SocialFi", "Web3", "Lens Protocol"]
+    },
+    {
+      "id": 12,
+      "title": "New Stablecoin Backed by Real-World Assets Launches on Ethereum",
+      "date": "2023-04-18",
+      "type": "Market Release",
+      "content": "A new stablecoin, \"RealUSD,\" collateralized by tokenized real estate assets, has launched on Ethereum, aiming to provide a more stable and transparent alternative to traditional stablecoins.",
+      "sentiment": "neutral",
+      "impactScore": 3,
+      "tags": ["Stablecoin", "RWA", "DeFi"]
+    },
+    {
+      "id": 13,
+      "title": "Ethereum Developers Target Q4 for Shanghai Upgrade",
+      "date": "2023-03-30",
+      "type": "Press Release",
+      "content": "Ethereum core developers have tentatively set Q4 as the target for the Shanghai upgrade, which will enable staked ETH withdrawals, a highly anticipated feature post-Merge.",
+      "sentiment": "positive",
+      "impactScore": 4,
+      "tags": ["Upgrade", "Staking", "Roadmap"]
+    },
+    {
+      "id": 14,
+      "title": "Major Investment Firm Allocates Billions to Ethereum Ecosystem",
+      "date": "2023-03-10",
+      "type": "Market Release",
+      "content": "BlackRock announced a significant investment into various projects within the Ethereum ecosystem, signaling growing institutional confidence in the network's future.",
+      "sentiment": "positive",
+      "impactScore": 5,
+      "tags": ["Investment", "Institutional", "DeFi"]
+    },
+    {
+      "id": 15,
+      "title": "Ethereum NFT Volume Dips Amidst Broader Market Downturn",
+      "date": "2023-02-20",
+      "type": "Market Release",
+      "content": "NFT trading volume on Ethereum has seen a decline over the past month, mirroring a broader bearish trend in the cryptocurrency market. Analysts remain optimistic for a rebound.",
+      "sentiment": "negative",
+      "impactScore": 2,
+      "tags": ["NFT", "Market", "Downturn"]
+    }
+  ],
+  "faqs": [
+    {
+      "id": 1,
+      "question": "What is Ethereum?",
+      "answer": "Ethereum is a decentralized, open-source blockchain with smart contract functionality. Ether (ETH) is the native cryptocurrency of the Ethereum platform. It is the most actively used blockchain."
+    },
+    {
+      "id": 2,
+      "question": "Who runs Ethereum?",
+      "answer": "Ethereum is maintained by a global network of decentralized nodes, meaning no single entity \"runs\" it. It's a community-driven project with contributions from developers worldwide."
+    },
+    {
+      "id": 3,
+      "question": "What are smart contracts?",
+      "answer": "Smart contracts are self-executing contracts with the terms of the agreement directly written into code. They run on the blockchain and automatically execute when conditions are met."
+    },
+    {
+      "id": 4,
+      "question": "What about Ethereum's energy consumption?",
+      "answer": "Ethereum transitioned from Proof-of-Work (PoW) to Proof-of-Stake (PoS) with \"The Merge,\" significantly reducing its energy consumption by over 99%."
+    },
+    {
+      "id": 5,
+      "question": "What is the difference between Ethereum and Bitcoin?",
+      "answer": "Bitcoin is primarily a digital currency for transactions, while Ethereum is a platform for building decentralized applications (dApps) and smart contracts, with Ether as its native token."
+    },
+    {
+      "id": 6,
+      "question": "What is Web3?",
+      "answer": "Web3 refers to the next generation of the internet, built on decentralized blockchain technologies, enabling peer-to-peer interactions without intermediaries."
+    },
+    {
+      "id": 7,
+      "question": "Why is Web3 important?",
+      "answer": "Web3 aims to give users more control over their data and digital identities, fostering a more open, transparent, and decentralized internet."
+    },
+    {
+      "id": 8,
+      "question": "What is ether (ETH)?",
+      "answer": "Ether (ETH) is the native cryptocurrency of the Ethereum blockchain. It is used to pay for transaction fees (gas) and as a store of value."
+    },
+    {
+      "id": 9,
+      "question": "What is an Ethereum wallet?",
+      "answer": "An Ethereum wallet is a digital tool that allows you to store, send, and receive Ether (ETH) and other tokens on the Ethereum blockchain. It manages your public and private keys."
+    },
+    {
+      "id": 10,
+      "question": "How to stay safe?",
+      "answer": "To stay safe, always use strong, unique passwords, enable two-factor authentication (2FA), be wary of phishing scams, and use reputable wallets and exchanges. Never share your private keys or seed phrase."
+    },
+    {
+      "id": 11,
+      "question": "Ethereum security and scam prevention",
+      "answer": "Ethereum security involves understanding common scams like phishing, fake giveaways, and malicious smart contracts. Always verify URLs, use hardware wallets for significant funds, and educate yourself on best practices."
+    },
+    {
+      "id": 12,
+      "question": "What are gas fees?",
+      "answer": "Gas fees are the transaction costs on the Ethereum network, paid in Ether (ETH). They compensate miners/validators for processing and validating transactions and smart contract executions."
+    },
+    {
+      "id": 13,
+      "question": "How do I pay less gas?",
+      "answer": "To pay less gas, transact during off-peak hours when network congestion is lower, use layer-2 scaling solutions (like Arbitrum or Optimism), or utilize gas fee trackers to find optimal times."
+    },
+    {
+      "id": 14,
+      "question": "What causes high gas?",
+      "answer": "High gas fees are primarily caused by network congestion. When many users are trying to make transactions simultaneously, the demand for block space increases, driving up gas prices."
+    },
+    {
+      "id": 15,
+      "question": "Why do we need gas?",
+      "answer": "Gas is essential to prevent spam on the network and to compensate validators for the computational resources required to process transactions and execute smart contracts, ensuring network security and stability."
+    },
+    {
+      "id": 16,
+      "question": "How is gas calculated?",
+      "answer": "Gas is calculated based on the complexity of the transaction. Each operation on the Ethereum Virtual Machine (EVM) has a gas cost. The total gas used is multiplied by the gas price (Gwei) to get the total fee."
+    }
+  ],
+  "allDapps": [
+    {
+      "id": 1,
+      "name": "Zapper",
+      "description": "Monitor all your DeFi assets in one place. Track your portfolio, liabilities, and liquidity positions across multiple protocols.",
+      "category": "Portfolio Management",
+      "imageUrl": "https://placehold.co/40x40/5B21B6/FFFFFF?text=ZAP",
+      "users": "1.2M",
+      "link": "https://zapper.fi"
+    },
+    {
+      "id": 2,
+      "name": "FastEx",
+      "description": "Decentralized exchange for fast and secure token swaps on Ethereum.",
+      "category": "Exchange",
+      "imageUrl": "https://placehold.co/40x40/EC4899/FFFFFF?text=FX",
+      "users": "800K",
+      "link": "https://www.fastex.io"
+    },
+    {
+      "id": 3,
+      "name": "MetaLand",
+      "description": "Explore and own virtual land in the metaverse. Build and monetize your digital assets.",
+      "category": "Metaverse",
+      "imageUrl": "https://placehold.co/40x40/10B981/FFFFFF?text=ML",
+      "users": "500K",
+      "link": "https://www.metaland.game"
+    },
+    {
+      "id": 4,
+      "name": "Uniswap",
+      "description": "Leading decentralized exchange for swapping ERC-20 tokens.",
+      "category": "Exchange",
+      "imageUrl": "https://placehold.co/40x40/A855F7/FFFFFF?text=UNI",
+      "users": "1.5M",
+      "link": "https://uniswap.org"
+    },
+    {
+      "id": 5,
+      "name": "Gnosis Safe",
+      "description": "Multi-signature wallet for secure management of crypto assets.",
+      "category": "Wallet",
+      "imageUrl": "https://placehold.co/40x40/4F46E5/FFFFFF?text=GNO",
+      "users": "400K",
+      "link": "https://gnosis-safe.io"
+    },
+    {
+      "id": 6,
+      "name": "DappBuilder",
+      "description": "No-code platform to build and deploy dApps on Ethereum.",
+      "category": "Developer Tools",
+      "imageUrl": "https://placehold.co/40x40/3B82F6/FFFFFF?text=DB",
+      "users": "100K",
+      "link": "https://dappbuilder.io"
+    },
+    {
+      "id": 7,
+      "name": "Umbrella Network",
+      "description": "Decentralized oracle for secure and scalable data feeds.",
+      "category": "Oracle",
+      "imageUrl": "https://placehold.co/40x40/374151/FFFFFF?text=UMB",
+      "users": "50K",
+      "link": "https://umbrella.network"
+    },
+    {
+      "id": 8,
+      "name": "KuCoin",
+      "description": "Centralized exchange with a wide range of cryptocurrencies.",
+      "category": "Centralized Exchange",
+      "imageUrl": "https://placehold.co/40x40/000000/FFFFFF?text=KC",
+      "users": "10M",
+      "link": "https://www.kucoin.com"
+    },
+    {
+      "id": 9,
+      "name": "Gas.zip",
+      "description": "Optimize and reduce Ethereum gas fees for transactions.",
+      "category": "Utility",
+      "imageUrl": "https://placehold.co/40x40/6B7280/FFFFFF?text=GAS",
+      "users": "200K",
+      "link": "https://gas.zip"
+    },
+    {
+      "id": 10,
+      "name": "DAO Foundation",
+      "description": "Tools and resources for building and managing DAOs.",
+      "category": "DAO & Governance",
+      "imageUrl": "https://placehold.co/40x40/EF4444/FFFFFF?text=DAO",
+      "users": "80K",
+      "link": "https://daofoundation.org"
+    },
+    {
+      "id": 11,
+      "name": "Web3DM",
+      "description": "Decentralized data management and storage solutions for Web3.",
+      "category": "Storage",
+      "imageUrl": "https://placehold.co/40x40/FBBF24/000000?text=W3DM",
+      "users": "30K",
+      "link": "https://web3dm.io"
+    },
+    {
+      "id": 12,
+      "name": "Doyls",
+      "description": "Web3 social platform for decentralized communication and content sharing.",
+      "category": "Social",
+      "imageUrl": "https://placehold.co/40x40/A78BFA/FFFFFF?text=DYLS",
+      "users": "150K",
+      "link": "https://doyls.xyz"
+    },
+    {
+      "id": 13,
+      "name": "Vently",
+      "description": "Decentralized event management and ticketing platform.",
+      "category": "Events",
+      "imageUrl": "https://placehold.co/40x40/6366F1/FFFFFF?text=VENT",
+      "users": "70K",
+      "link": "https://vently.app"
+    },
+    {
+      "id": 14,
+      "name": "BICSscan",
+      "description": "Blockchain explorer for BICS Chain, providing real-time data on transactions and blocks.",
+      "category": "Infrastructure",
+      "imageUrl": "https://placehold.co/40x40/000000/FFFFFF?text=BSC",
+      "users": "1M",
+      "link": "https://bicsscan.com"
+    },
+    {
+      "id": 15,
+      "name": "Normal",
+      "description": "A decentralized identity management solution for Web3.",
+      "category": "Identity",
+      "imageUrl": "https://placehold.co/40x40/F87171/FFFFFF?text=NORM",
+      "users": "90K",
+      "link": "https://normal.id"
+    },
+    {
+      "id": 16,
+      "name": "Tendency",
+      "description": "AI-powered trading and analytics platform for decentralized finance.",
+      "category": "Analytics",
+      "imageUrl": "https://placehold.co/40x40/EC4899/FFFFFF?text=TEND",
+      "users": "120K",
+      "link": "https://tendency.ai"
+    },
+    {
+      "id": 17,
+      "name": "Nansen Portfolio",
+      "description": "Advanced blockchain analytics platform for on-chain data and portfolio tracking.",
+      "category": "Analytics",
+      "imageUrl": "https://placehold.co/40x40/3B82F6/FFFFFF?text=NANSEN",
+      "users": "250K",
+      "link": "https://www.nansen.ai"
+    },
+    {
+      "id": 18,
+      "name": "DappRadar",
+      "description": "Discover, track, and analyze decentralized applications.",
+      "category": "Analytics",
+      "imageUrl": "https://placehold.co/40x40/6366F1/FFFFFF?text=DR",
+      "users": "1.8M",
+      "link": "https://dappradar.com"
+    },
+    {
+      "id": 19,
+      "name": "Bybit",
+      "description": "Leading cryptocurrency exchange for spot and derivatives trading.",
+      "category": "Centralized Exchange",
+      "imageUrl": "https://placehold.co/40x40/000000/FFFFFF?text=BYBIT",
+      "users": "8M",
+      "link": "https://www.bybit.com"
+    },
+    {
+      "id": 20,
+      "name": "OKX Wallet",
+      "description": "Secure and versatile cryptocurrency wallet supporting multiple chains.",
+      "category": "Wallet",
+      "imageUrl": "https://placehold.co/40x40/FF7F50/FFFFFF?text=OKX",
+      "users": "5M",
+      "link": "https://www.okx.com/web3"
+    },
+    {
+      "id": 21,
+      "name": "Chainlink",
+      "description": "Decentralized oracle network providing real-world data to smart contracts.",
+      "category": "Oracle",
+      "imageUrl": "https://placehold.co/40x40/000000/FFFFFF?text=LINK",
+      "users": "N/A",
+      "link": "https://chain.link"
+    },
+    {
+      "id": 22,
+      "name": "Automata Network",
+      "description": "Decentralized service protocol for privacy and censorship resistance in Web3.",
+      "category": "Privacy",
+      "imageUrl": "https://placehold.co/40x40/374151/FFFFFF?text=ATA",
+      "users": "N/A",
+      "link": "https://ata.network"
+    },
+    {
+      "id": 23,
+      "name": "CR-fund",
+      "description": "Decentralized investment fund for various crypto assets.",
+      "category": "Investment",
+      "imageUrl": "https://placehold.co/40x40/A855F7/FFFFFF?text=CRF",
+      "users": "20K",
+      "link": "https://cr-fund.xyz"
+    },
+    {
+      "id": 24,
+      "name": "The Graph",
+      "description": "Indexing protocol for querying networks like Ethereum and IPFS.",
+      "category": "Infrastructure",
+      "imageUrl": "https://placehold.co/40x40/6366F1/FFFFFF?text=GRT",
+      "users": "N/A",
+      "link": "https://thegraph.com"
+    },
+    {
+      "id": 25,
+      "name": "Pocket Network",
+      "description": "Decentralized RPC infrastructure for Web3 applications.",
+      "category": "Infrastructure",
+      "imageUrl": "https://placehold.co/40x40/000000/FFFFFF?text=POKT",
+      "users": "N/A",
+      "link": "https://www.pokt.network"
+    },
+    {
+      "id": 26,
+      "name": "Pali Wallet",
+      "description": "A user-friendly wallet for managing crypto assets and interacting with dApps.",
+      "category": "Wallet",
+      "imageUrl": "https://placehold.co/40x40/008080/FFFFFF?text=PALI",
+      "users": "500K",
+      "link": "https://paliwallet.com"
+    },
+    {
+      "id": 27,
+      "name": "SafePal",
+      "description": "Hardware and software wallet for secure crypto storage.",
+      "category": "Wallet",
+      "imageUrl": "https://placehold.co/40x40/000000/FFFFFF?text=SFP",
+      "users": "2M",
+      "link": "https://www.safepal.com"
+    },
+    {
+      "id": 28,
+      "name": "Trust Wallet",
+      "description": "Multi-coin crypto wallet for decentralized applications.",
+      "category": "Wallet",
+      "imageUrl": "https://placehold.co/40x40/3366FF/FFFFFF?text=TW",
+      "users": "20M",
+      "link": "https://trustwallet.com"
+    },
+    {
+      "id": 29,
+      "name": "MetaMask",
+      "description": "Popular browser extension wallet for Ethereum and EVM chains.",
+      "category": "Wallet",
+      "imageUrl": "https://placehold.co/40x40/FF7F50/FFFFFF?text=MM",
+      "users": "30M",
+      "link": "https://metamask.io"
+    },
+    {
+      "id": 30,
+      "name": "Argent",
+      "description": "Smart wallet for DeFi and NFTs with enhanced security.",
+      "category": "Wallet",
+      "imageUrl": "https://placehold.co/40x40/000000/FFFFFF?text=ARG",
+      "users": "100K",
+      "link": "https://www.argent.xyz"
+    },
+    {
+      "id": 31,
+      "name": "ZkSync Era",
+      "description": "Zero-knowledge rollup for scalable and low-cost Ethereum transactions.",
+      "category": "L2 Rollup",
+      "imageUrl": "https://placehold.co/40x40/6C8EEF/FFFFFF?text=ZK",
+      "users": "N/A",
+      "link": "https://zksync.io"
+    },
+    {
+      "id": 32,
+      "name": "Arbitrum One",
+      "description": "Optimistic rollup for fast and cheap Ethereum transactions.",
+      "category": "L2 Rollup",
+      "imageUrl": "https://placehold.co/40x40/2B374F/FFFFFF?text=ARB",
+      "users": "N/A",
+      "link": "https://arbitrum.io"
+    },
+    {
+      "id": 33,
+      "name": "Optimism",
+      "description": "Scalable and low-cost Ethereum L2 using optimistic rollups.",
+      "category": "L2 Rollup",
+      "imageUrl": "https://placehold.co/40x40/FF0420/FFFFFF?text=OP",
+      "users": "N/A",
+      "link": "https://www.optimism.io"
+    },
+    {
+      "id": 34,
+      "name": "Polygon PoS",
+      "description": "Sidechain for scalable and secure transactions.",
+      "category": "Sidechain",
+      "imageUrl": "https://placehold.co/40x40/8247E5/FFFFFF?text=POLY",
+      "users": "N/A",
+      "link": "https://polygon.technology"
+    },
+    {
+      "id": 35,
+      "name": "Avalanche C-Chain",
+      "description": "EVM-compatible blockchain for dApps.",
+      "category": "EVM Chain",
+      "imageUrl": "https://placehold.co/40x40/E84142/FFFFFF?text=AVAX",
+      "users": "N/A",
+      "link": "https://www.avax.network"
+    },
+    {
+      "id": 36,
+      "name": "Base Network",
+      "description": "Secure, low-cost, developer-friendly Ethereum L2 incubated by Coinbase.",
+      "category": "L2 Rollup",
+      "imageUrl": "https://placehold.co/40x40/0052FF/FFFFFF?text=BASE",
+      "users": "N/A",
+      "link": "https://base.org"
+    }
+  ],
+  "categories": [
+    "Wallets",
+    "Infrastructure",
+    "Dapp Tools",
+    "Developer Tools",
+    "DAO & Governance",
+    "On/Off Ramps",
+    "Security",
+    "Centralized Exchanges",
+    "Digital ID",
+    "Analytics",
+    "Metaverse",
+    "Events",
+    "Privacy",
+    "L2 Rollup",
+    "Sidechain",
+    "EVM Chain"
+  ],
+  "chainInfo": {
+    "bitcoinPrice": "62886",
+    "currency": "US Dollar",
+    "networkMetrics": "2.5M Daily Transactions, 120 Gwei Gas Price"
+  },
+  "recommendedList": [
+    {
+      "id": 1,
+      "title": "Exploring the Potential of Metaverse Applications on Ethereum",
+      "imageUrl": "https://placehold.co/60x60/0000FF/FFFFFF?text=BL"
+    },
+    {
+      "id": 2,
+      "title": "Understanding Ethereum's DeFi Ecosystem",
+      "imageUrl": "https://placehold.co/60x60/FF00FF/FFFFFF?text=TE"
+    },
+    {
+      "id": 3,
+      "title": "Security Best Practices for Ethereum Wallets",
+      "imageUrl": "https://placehold.co/60x60/FFFF00/000000?text=TE"
+    },
+    {
+      "id": 4,
+      "title": "Ethereum Layer 2 Scaling Solutions Explained",
+      "imageUrl": "https://placehold.co/60x60/0000FF/FFFFFF?text=BU"
+    },
+    {
+      "id": 5,
+      "title": "The Impact of EIP-1559 on Ethereum Fees",
+      "imageUrl": "https://placehold.co/60x60/0000FF/FFFFFF?text=BU"
+    },
+    {
+      "id": 6,
+      "title": "Investing in Ethereum NFTs: A Beginner's Guide",
+      "imageUrl": "https://placehold.co/60x60/0000FF/FFFFFF?text=BL"
+    },
+    {
+      "id": 7,
+      "title": "Decentralized Identity on Ethereum",
+      "imageUrl": "https://placehold.co/60x60/FFFF00/000000?text=TE"
+    },
+    {
+      "id": 8,
+      "title": "The Future of Ethereum 2.0",
+      "imageUrl": "https://placehold.co/60x60/FF00FF/FFFFFF?text=TE"
+    },
+    {
+      "id": 9,
+      "title": "Ethereum Gaming: Play-to-Earn Models",
+      "imageUrl": "https://placehold.co/60x60/0000FF/FFFFFF?text=BL"
+    },
+    {
+      "id": 10,
+      "title": "DAO Governance on Ethereum: A Deep Dive",
+      "imageUrl": "https://placehold.co/60x60/FF00FF/FFFFFF?text=TE"
+    },
+    {
+      "id": 11,
+      "title": "Understanding Ethereum's Consensus Mechanism",
+      "imageUrl": "https://placehold.co/60x60/0000FF/FFFFFF?text=BL"
+    },
+    {
+      "id": 12,
+      "title": "Ethereum Virtual Machine (EVM) Explained",
+      "imageUrl": "https://placehold.co/60x60/FF00FF/FFFFFF?text=TE"
+    }
+  ],
+  "mostRead": [
+    { "id": 1, "title": "Green Blockchain Initiatives on the Rise" },
+    { "id": 2, "title": "DAO Governance Proposal Passes Unanimously" },
+    { "id": 3, "title": "NFT Market Sees Surge in Trading Volume" },
+    { "id": 4, "title": "Chain Moves to Simplify Smart Contracts" },
+    { "id": 5, "title": "Stablecoin Adoption Grows Across Asia" },
+    { "id": 6, "title": "Decentralized Storage Solutions Expand" },
+    { "id": 7, "title": "New Privacy Coin Gains Traction" },
+    { "id": 8, "title": "Cryptocurrency Regulations Looming in Europe" },
+    { "id": 9, "title": "Quantum Computing Threat to Crypto Analyzed" },
+    { "id": 10, "title": "Web3 Gaming Attracts Mainstream Investors" },
+    { "id": 11, "title": "Blockchain Project Announces Major Partnership" },
+    { "id": 12, "title": "DeFi Hits New All-Time High" }
+  ],
+  "topHolders": [
+    {
+      "id": 1,
+      "name": "Name 1",
+      "address": "0xHolder0abc...xyz",
+      "imageUrl": "https://placehold.co/60x60/4A4A4A/FFFFFF?text=H1",
+      "balance": "12345.67"
+    },
+    {
+      "id": 2,
+      "name": "Name 2",
+      "address": "0xHolder1abc...xyz",
+      "imageUrl": "https://placehold.co/60x60/4A4A4A/FFFFFF?text=H2",
+      "balance": "23456.78"
+    },
+    {
+      "id": 3,
+      "name": "Name 3",
+      "address": "0xHolder2abc...xyz",
+      "imageUrl": "https://placehold.co/60x60/4A4A4A/FFFFFF?text=H3",
+      "balance": "34567.89"
+    },
+    {
+      "id": 4,
+      "name": "Name 4",
+      "address": "0xHolder3abc...xyz",
+      "imageUrl": "https://placehold.co/60x60/4A4A4A/FFFFFF?text=H4",
+      "balance": "45678.90"
+    },
+    {
+      "id": 5,
+      "name": "Name 5",
+      "address": "0xHolder4abc...xyz",
+      "imageUrl": "https://placehold.co/60x60/4A4A4A/FFFFFF?text=H5",
+      "balance": "56789.01"
+    },
+    {
+      "id": 6,
+      "name": "Name 6",
+      "address": "0xHolder5abc...xyz",
+      "imageUrl": "https://placehold.co/60x60/4A4A4A/FFFFFF?text=H6",
+      "balance": "67890.12"
+    },
+    {
+      "id": 7,
+      "name": "Name 7",
+      "address": "0xHolder6abc...xyz",
+      "imageUrl": "https://placehold.co/60x60/4A4A4A/FFFFFF?text=H7",
+      "balance": "78901.23"
+    },
+    {
+      "id": 8,
+      "name": "Name 8",
+      "address": "0xHolder7abc...xyz",
+      "imageUrl": "https://placehold.co/60x60/4A4A4A/FFFFFF?text=H8",
+      "balance": "89012.34"
+    },
+    {
+      "id": 9,
+      "name": "Name 9",
+      "address": "0xHolder8abc...xyz",
+      "imageUrl": "https://placehold.co/60x60/4A4A4A/FFFFFF?text=H9",
+      "balance": "90123.45"
+    },
+    {
+      "id": 10,
+      "name": "Name 10",
+      "address": "0xHolder9abc...xyz",
+      "imageUrl": "https://placehold.co/60x60/4A4A4A/FFFFFF?text=H10",
+      "balance": "101234.56"
+    }
+  ],
+  "featuredNfts": [
+    {
+      "id": 1,
+      "name": "8 by Bård Ionson",
+      "artist": "Art Blocks",
+      "imageUrl": "https://images.unsplash.com/photo-1628103348124-2c70014a66a1?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "currentBid": "0.06",
+      "floorPrice": "33.35",
+      "volume": "8.9",
+      "statusIndicators": [
+        { "id": 1, "color": "#4CAF50", "value": 80, "label": "Minted" },
+        { "id": 2, "color": "#FFD700", "value": 60, "label": "Listed" },
+        { "id": 3, "color": "#00BFFF", "value": 90, "label": "Owners" }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "The Wanderer",
+      "artist": "Digital Dreamer",
+      "imageUrl": "https://images.unsplash.com/photo-1628103348124-2c70014a66a1?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "currentBid": "0.12",
+      "floorPrice": "28.10",
+      "volume": "5.2",
+      "statusIndicators": [
+        { "id": 1, "color": "#FF6347", "value": 70, "label": "Minted" },
+        { "id": 2, "color": "#9ACD32", "value": 85, "label": "Listed" },
+        { "id": 3, "color": "#FFD700", "value": 75, "label": "Owners" }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Mystic Realm",
+      "artist": "Pixel Sorcerer",
+      "imageUrl": "https://images.unsplash.com/photo-1628103348124-2c70014a66a1?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "currentBid": "0.09",
+      "floorPrice": "40.00",
+      "volume": "10.5",
+      "statusIndicators": [
+        { "id": 1, "color": "#00BFFF", "value": 95, "label": "Minted" },
+        { "id": 2, "color": "#4CAF50", "value": 70, "label": "Listed" },
+        { "id": 3, "color": "#FF6347", "value": 80, "label": "Owners" }
+      ]
+    }
+  ],
+  "featuredCollections": [
+    {
+      "id": 1,
+      "name": "Collection 1",
+      "imageUrl": "https://placehold.co/80x80/38B2AC/FFFFFF?text=FC1",
+      "floorPrice": "0.10",
+      "volume": "100.00",
+      "items": 1000,
+      "owners": 500,
+      "description": "A diverse collection featuring unique digital assets."
+    },
+    {
+      "id": 2,
+      "name": "Collection 2",
+      "imageUrl": "https://placehold.co/80x80/38B2AC/FFFFFF?text=FC2",
+      "floorPrice": "0.12",
+      "volume": "105.00",
+      "items": 1100,
+      "owners": 550,
+      "description": "A diverse collection featuring unique digital assets."
+    },
+    {
+      "id": 3,
+      "name": "Collection 3",
+      "imageUrl": "https://placehold.co/80x80/38B2AC/FFFFFF?text=FC3",
+      "floorPrice": "0.14",
+      "volume": "110.00",
+      "items": 1200,
+      "owners": 600,
+      "description": "A diverse collection featuring unique digital assets."
+    },
+    {
+      "id": 4,
+      "name": "Collection 4",
+      "imageUrl": "https://placehold.co/80x80/38B2AC/FFFFFF?text=FC4",
+      "floorPrice": "0.16",
+      "volume": "115.00",
+      "items": 1300,
+      "owners": 650,
+      "description": "A diverse collection featuring unique digital assets."
+    },
+    {
+      "id": 5,
+      "name": "Collection 5",
+      "imageUrl": "https://placehold.co/80x80/38B2AC/FFFFFF?text=FC5",
+      "floorPrice": "0.18",
+      "volume": "120.00",
+      "items": 1400,
+      "owners": 700,
+      "description": "A diverse collection featuring unique digital assets."
+    },
+    {
+      "id": 6,
+      "name": "Collection 6",
+      "imageUrl": "https://placehold.co/80x80/38B2AC/FFFFFF?text=FC6",
+      "floorPrice": "0.20",
+      "volume": "125.00",
+      "items": 1500,
+      "owners": 750,
+      "description": "A diverse collection featuring unique digital assets."
+    },
+    {
+      "id": 7,
+      "name": "Collection 7",
+      "imageUrl": "https://placehold.co/80x80/38B2AC/FFFFFF?text=FC7",
+      "floorPrice": "0.22",
+      "volume": "130.00",
+      "items": 1600,
+      "owners": 800,
+      "description": "A diverse collection featuring unique digital assets."
+    },
+    {
+      "id": 8,
+      "name": "Collection 8",
+      "imageUrl": "https://placehold.co/80x80/38B2AC/FFFFFF?text=FC8",
+      "floorPrice": "0.24",
+      "volume": "135.00",
+      "items": 1700,
+      "owners": 850,
+      "description": "A diverse collection featuring unique digital assets."
+    },
+    {
+      "id": 9,
+      "name": "Collection 9",
+      "imageUrl": "https://placehold.co/80x80/38B2AC/FFFFFF?text=FC9",
+      "floorPrice": "0.26",
+      "volume": "140.00",
+      "items": 1800,
+      "owners": 900,
+      "description": "A diverse collection featuring unique digital assets."
+    },
+    {
+      "id": 10,
+      "name": "Collection 10",
+      "imageUrl": "https://placehold.co/80x80/38B2AC/FFFFFF?text=FC10",
+      "floorPrice": "0.28",
+      "volume": "145.00",
+      "items": 1900,
+      "owners": 950,
+      "description": "A diverse collection featuring unique digital assets."
+    },
+    {
+      "id": 11,
+      "name": "Collection 11",
+      "imageUrl": "https://placehold.co/80x80/38B2AC/FFFFFF?text=FC11",
+      "floorPrice": "0.30",
+      "volume": "150.00",
+      "items": 2000,
+      "owners": 1000,
+      "description": "A diverse collection featuring unique digital assets."
+    },
+    {
+      "id": 12,
+      "name": "Collection 12",
+      "imageUrl": "https://placehold.co/80x80/38B2AC/FFFFFF?text=FC12",
+      "floorPrice": "0.32",
+      "volume": "155.00",
+      "items": 2100,
+      "owners": 1050,
+      "description": "A diverse collection featuring unique digital assets."
+    },
+    {
+      "id": 13,
+      "name": "Collection 13",
+      "imageUrl": "https://placehold.co/80x80/38B2AC/FFFFFF?text=FC13",
+      "floorPrice": "0.34",
+      "volume": "160.00",
+      "items": 2200,
+      "owners": 1100,
+      "description": "A diverse collection featuring unique digital assets."
+    },
+    {
+      "id": 14,
+      "name": "Collection 14",
+      "imageUrl": "https://placehold.co/80x80/38B2AC/FFFFFF?text=FC14",
+      "floorPrice": "0.36",
+      "volume": "165.00",
+      "items": 2300,
+      "owners": 1150,
+      "description": "A diverse collection featuring unique digital assets."
+    },
+    {
+      "id": 15,
+      "name": "Collection 15",
+      "imageUrl": "https://placehold.co/80x80/38B2AC/FFFFFF?text=FC15",
+      "floorPrice": "0.38",
+      "volume": "170.00",
+      "items": 2400,
+      "owners": 1200,
+      "description": "A diverse collection featuring unique digital assets."
+    }
+  ],
+  "trendingTokens": [
+    {
+      "id": 1,
+      "name": "Token 1",
+      "symbol": "TOK1",
+      "price": "100.00",
+      "change": "0.0321",
+      "imageUrl": "https://placehold.co/40x40/4A4A4A/FFFFFF?text=T1",
+      "chartData": [
+        { "x": 0, "y": 10 },
+        { "x": 20, "y": 15 },
+        { "x": 40, "y": 12 },
+        { "x": 60, "y": 18 },
+        { "x": 80, "y": 16 },
+        { "x": 100, "y": 20 }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Token 2",
+      "symbol": "TOK2",
+      "price": "105.00",
+      "change": "-0.0123",
+      "imageUrl": "https://placehold.co/40x40/4A4A4A/FFFFFF?text=T2",
+      "chartData": [
+        { "x": 0, "y": 10 },
+        { "x": 20, "y": 15 },
+        { "x": 40, "y": 12 },
+        { "x": 60, "y": 18 },
+        { "x": 80, "y": 16 },
+        { "x": 100, "y": 20 }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Token 3",
+      "symbol": "TOK3",
+      "price": "110.00",
+      "change": "0.0456",
+      "imageUrl": "https://placehold.co/40x40/4A4A4A/FFFFFF?text=T3",
+      "chartData": [
+        { "x": 0, "y": 10 },
+        { "x": 20, "y": 15 },
+        { "x": 40, "y": 12 },
+        { "x": 60, "y": 18 },
+        { "x": 80, "y": 16 },
+        { "x": 100, "y": 20 }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Token 4",
+      "symbol": "TOK4",
+      "price": "115.00",
+      "change": "-0.0234",
+      "imageUrl": "https://placehold.co/40x40/4A4A4A/FFFFFF?text=T4",
+      "chartData": [
+        { "x": 0, "y": 10 },
+        { "x": 20, "y": 15 },
+        { "x": 40, "y": 12 },
+        { "x": 60, "y": 18 },
+        { "x": 80, "y": 16 },
+        { "x": 100, "y": 20 }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Token 5",
+      "symbol": "TOK5",
+      "price": "120.00",
+      "change": "0.0102",
+      "imageUrl": "https://placehold.co/40x40/4A4A4A/FFFFFF?text=T5",
+      "chartData": [
+        { "x": 0, "y": 10 },
+        { "x": 20, "y": 15 },
+        { "x": 40, "y": 12 },
+        { "x": 60, "y": 18 },
+        { "x": 80, "y": 16 },
+        { "x": 100, "y": 20 }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Token 6",
+      "symbol": "TOK6",
+      "price": "125.00",
+      "change": "-0.0345",
+      "imageUrl": "https://placehold.co/40x40/4A4A4A/FFFFFF?text=T6",
+      "chartData": [
+        { "x": 0, "y": 10 },
+        { "x": 20, "y": 15 },
+        { "x": 40, "y": 12 },
+        { "x": 60, "y": 18 },
+        { "x": 80, "y": 16 },
+        { "x": 100, "y": 20 }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Token 7",
+      "symbol": "TOK7",
+      "price": "130.00",
+      "change": "0.0213",
+      "imageUrl": "https://placehold.co/40x40/4A4A4A/FFFFFF?text=T7",
+      "chartData": [
+        { "x": 0, "y": 10 },
+        { "x": 20, "y": 15 },
+        { "x": 40, "y": 12 },
+        { "x": 60, "y": 18 },
+        { "x": 80, "y": 16 },
+        { "x": 100, "y": 20 }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Token 8",
+      "symbol": "TOK8",
+      "price": "135.00",
+      "change": "-0.0456",
+      "imageUrl": "https://placehold.co/40x40/4A4A4A/FFFFFF?text=T8",
+      "chartData": [
+        { "x": 0, "y": 10 },
+        { "x": 20, "y": 15 },
+        { "x": 40, "y": 12 },
+        { "x": 60, "y": 18 },
+        { "x": 80, "y": 16 },
+        { "x": 100, "y": 20 }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Token 9",
+      "symbol": "TOK9",
+      "price": "140.00",
+      "change": "0.0123",
+      "imageUrl": "https://placehold.co/40x40/4A4A4A/FFFFFF?text=T9",
+      "chartData": [
+        { "x": 0, "y": 10 },
+        { "x": 20, "y": 15 },
+        { "x": 40, "y": 12 },
+        { "x": 60, "y": 18 },
+        { "x": 80, "y": 16 },
+        { "x": 100, "y": 20 }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Token 10",
+      "symbol": "TOK10",
+      "price": "145.00",
+      "change": "-0.0321",
+      "imageUrl": "https://placehold.co/40x40/4A4A4A/FFFFFF?text=T10",
+            "chartData": [
+        { "x": 0, "y": 10 },
+        { "x": 20, "y": 15 },
+        { "x": 40, "y": 12 },
+        { "x": 60, "y": 18 },
+        { "x": 80, "y": 16 },
+        { "x": 100, "y": 20 }
+      ]
+    }
+  ],
+  "transactionFees": {
+    "averageGasPrice": "120 Gwei",
+    "averageTransactionFee": "0.0025 ETH",
+    "historicalFees": [
+      { "date": "2023-06-01", "gasPrice": "110 Gwei", "transactionFee": "0.0022 ETH" },
+      { "date": "2023-05-01", "gasPrice": "130 Gwei", "transactionFee": "0.0028 ETH" },
+      { "date": "2023-04-01", "gasPrice": "100 Gwei", "transactionFee": "0.0020 ETH" }
+    ]
+  },
+  "relatedChains": [
+    {
+      "id": 1,
+      "name": "Polygon",
+      "description": "A layer-2 scaling solution for Ethereum, offering faster and cheaper transactions.",
+      "imageUrl": "https://placehold.co/40x40/8247E5/FFFFFF?text=POLY",
+      "link": "https://polygon.technology"
+    },
+    {
+      "id": 2,
+      "name": "Arbitrum",
+      "description": "An optimistic rollup for scalable and low-cost Ethereum transactions.",
+      "imageUrl": "https://placehold.co/40x40/2B374F/FFFFFF?text=ARB",
+      "link": "https://arbitrum.io"
+    },
+    {
+      "id": 3,
+      "name": "Optimism",
+      "description": "A layer-2 solution using optimistic rollups to enhance Ethereum scalability.",
+      "imageUrl": "https://placehold.co/40x40/FF0420/FFFFFF?text=OP",
+      "link": "https://www.optimism.io"
+    },
+    {
+      "id": 4,
+      "name": "zkSync",
+      "description": "A zero-knowledge rollup for secure and scalable Ethereum transactions.",
+      "imageUrl": "https://placehold.co/40x40/6C8EEF/FFFFFF?text=ZK",
+      "link": "https://zksync.io"
+    }
+  ],
+  "backgroundImages": [
+    "https://images.unsplash.com/photo-1620712943506-eddc17117c14?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "https://images.unsplash.com/photo-1639322537228-fefdecd17e57?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "https://images.unsplash.com/photo-1628348704284-377033571d79?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  ]
+}

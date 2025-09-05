@@ -1,0 +1,33 @@
+{
+  "topStories": [
+    { "id": 1, "title": "Phemex Showcases New Mission Statement at Token2049 Dubai", "category": "NFT", "tag": "Ethereum", "image": "https://via.placeholder.com/300x200", "url": "/news/1" },
+    { "id": 2, "title": "Strategy Stock Volatility Sinks to Historic Lows", "category": "Blockchain", "tag": "Bitcoin", "image": "https://via.placeholder.com/300x200", "url": "/news/2" },
+    { "id": 3, "title": "Bitcoin Set for Biggest Mining Difficulty Drop", "category": "Blockchain", "tag": "Bitcoin", "image": "https://via.placeholder.com/300x200", "url": "/news/3" }
+  ],
+  "marketStories": [
+    { "id": 4, "title": "Circle Drops 15%, Stock Frenzy Cools as BIS Warns of Stablecoin Risks", "category": "Crypto", "tag": "Ethereum", "image": "https://via.placeholder.com/300x200", "url": "/news/4" },
+    { "id": 5, "title": "Filecoin Surges 14% as Crypto Continues Gains on Middle East Ceasefire", "category": "Crypto", "tag": "Filecoin", "image": "https://via.placeholder.com/300x200", "url": "/news/5" }
+  ],
+  "financeStories": [
+    { "id": 6, "title": "SharpLink Gaming Boosts Ethereum Treasury to $30M", "category": "Finance", "tag": "Ethereum", "image": "https://via.placeholder.com/300x200", "url": "/news/6" }
+  ],
+  "policyStories": [
+    { "id": 7, "title": "U.S. Senators Pitch New Crypto Market Structure Framework", "category": "Policy", "tag": "Bitcoin", "image": "https://via.placeholder.com/300x200", "url": "/news/7" }
+  ],
+  "cryptoNews": [
+    { "id": 8, "title": "Circle Drops 15%, Stock Frenzy Cools as BIS Warns of Stablecoin Risks", "category": "Crypto", "tag": "Ethereum", "image": "https://via.placeholder.com/150x100", "url": "/news/8" },
+    { "id": 9, "title": "Bitcoin Miner CleanSpark Hits 50 EH/s Hashrate Milestone", "category": "Crypto", "tag": "Bitcoin", "image": "https://via.placeholder.com/150x100", "url": "/news/9" }
+  ],
+  "blockchainNews": [
+    { "id": 10, "title": "Circle Drops 15%, Stock Frenzy Cools as BIS Warns of Stablecoin Risks", "category": "Blockchain", "tag": "Ethereum", "image": "https://via.placeholder.com/150x100", "url": "/news/10" },
+    { "id": 11, "title": "Bitcoin Miner CleanSpark Hits 50 EH/s Hashrate Milestone", "category": "Blockchain", "tag": "Bitcoin", "image": "https://via.placeholder.com/150x100", "url": "/news/11" }
+  ],
+  "newsletters": [
+    { "id": 12, "title": "Crypto Daybook Americas", "description": "Market analysis for crypto traders and investors.", "url": "/newsletter/12" },
+    { "id": 13, "title": "Crypto Long & Short", "description": "A must read for institutions.", "url": "/newsletter/13" }
+  ],
+  "filters": {
+    "categories": ["NFT", "Blockchain", "Art", "Music", "Crypto", "Finance", "Policy"],
+    "tags": ["Ethereum", "Solana", "Polygon", "Bitcoin", "Filecoin"]
+  }
+}

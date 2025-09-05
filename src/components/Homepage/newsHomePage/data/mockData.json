@@ -1,0 +1,108 @@
+{
+  "blockchain": [
+    {
+      "id": 1,
+      "category": "Blockchain",
+      "title": "$17K Breached: Bitcoin Down 15% from All-Time High",
+      "date": "February 5, 2018",
+      "imageUrl": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YmxvY2tjaGFpbnxlbnwwfHwwfHx8MA%3D%3D",
+      "content": "Detailed content about Bitcoin prices falling after reaching an all-time high..."
+    },
+    {
+      "id": 2,
+      "category": "Blockchain",
+      "title": "SEC Suspends Crypto Firm's Stock After Big Price Boost",
+      "date": "February 5, 2018",
+      "admin": "Admin",
+      "imageUrl": "https://images.unsplash.com/photo-1639815188546-c43c240ff4df?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8YmxvY2tjaGFpbnxlbnwwfHwwfHx8MA%3D%3D",
+      "content": "In-depth analysis of the SEC suspension and its market impact..."
+    },
+    {
+      "id": 3,
+      "category": "News",
+      "title": "Hong Kong Official Rules Out Plan for Central Bank",
+      "date": "May 31, 2018",
+      "admin": "Admin",
+      "imageUrl": "https://plus.unsplash.com/premium_photo-1681400668073-a1947604dd36?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGJsb2NrY2hhaW58ZW58MHx8MHx8fDA%3D",
+      "content": "Details on Hong Kong's decision regarding a central bank digital currency..."
+    },
+    {
+      "id": 4,
+      "category": "Tech",
+      "title": "The Future of Decentralized Finance (DeFi)",
+      "date": "June 10, 2024",
+      "admin": "Admin",
+      "imageUrl": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGJsb2NrY2hhaW58ZW58MHx8MHx8fDA%3D",
+      "content": "Exploring the new wave of DeFi applications and their potential to disrupt traditional finance."
+    }
+  ],
+  "latest": [
+    {
+      "id": 5,
+      "title": "Hong Kong Official Rules Out Plan for Central Bank",
+      "date": "May 31, 2018"
+    },
+    {
+      "id": 6,
+      "title": "New Zcash Software Sets Stage for ‘Sapling’ Upgrade",
+      "date": "May 31, 2018"
+    },
+    {
+      "id": 7,
+      "title": "SEC Suspends Crypto Firm’s Stock After Big Price Boost",
+      "date": "February 5, 2018"
+    },
+    {
+      "id": 8,
+      "title": "Coinbase Halts Bitcoin Cash Trading Abruptly After",
+      "date": "February 5, 2018"
+    },
+    {
+      "id": 9,
+      "title": "Chain Moves to Simplify Smart Contracts",
+      "date": "February 5, 2018"
+    }
+  ],
+  "pressReleases": [
+    {
+      "id": 10,
+      "title": "Hong Kong Official Rules Out Plan for Central Bank",
+      "date": "May 31, 2018"
+    },
+    {
+      "id": 11,
+      "title": "New Zcash Software Sets Stage for ‘Sapling’ Upgrade",
+      "date": "May 31, 2018"
+    }
+  ],
+  "recommended": [
+    {
+      "id": 12,
+      "category": "Blockchain News",
+      "title": "US-Approved Spot Bitcoin ETFs Could Surpass Entire $50 Billion Crypto ETP Market: BIMEX",
+      "time": "4 hours ago",
+      "imageUrl": "https://plus.unsplash.com/premium_photo-1685697927817-8e8e0ab6ec9e?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bGF0ZXN0JTIwd2ViM3xlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": 13,
+      "category": "Blockchain News",
+      "title": "Over 69% of Crypto-Related Tweets and 84% of Conversations on Reddit Were Positive in 2023",
+      "time": "4 hours ago",
+      "imageUrl": "https://plus.unsplash.com/premium_photo-1685697927817-8e8e0ab6ec9e?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bGF0ZXN0JTIwd2ViM3xlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": 14,
+      "category": "Blockchain News",
+      "title": "STX Price Prediction: After 126% Price Jump in December, What’s in Store for 2024?",
+      "time": "4 hours ago",
+      "imageUrl": "https://images.unsplash.com/photo-1579642984094-5be053d579b8?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGxhdGVzdCUyMHdlYjN8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "id": 15,
+      "category": "Blockchain News",
+      "title": "Former FTX CEO Sam Bankman-Fried and Debtors Reach Settlement in Embed Proceeding",
+      "time": "4 hours ago",
+      "imageUrl": "https://images.unsplash.com/photo-1664792417230-7dd9485abdf0?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bGF0ZXN0JTIwd2ViM3xlbnwwfHwwfHx8MA%3D%3D "
+    }
+  ]
+}

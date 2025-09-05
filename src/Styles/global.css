@@ -1,0 +1,33 @@
+body {
+    background-color: #1A1A1A; /* Dark background */
+    color: #FFFFFF; /* White text */
+  }
+  
+  button {
+    background-color: #8B0000; /* Dark Red */
+    color: #FFD700; /* Yellow */
+    border: 2px solid #FFD700;
+  }
+  
+  button:hover {
+    background-color: #FFD700;
+    color: #8B0000;
+  }
+  
+
+  @keyframes marquee {
+    0% {
+      transform: translateX(0);
+    }
+    100% {
+      transform: translateX(-50%);
+    }
+  }
+  
+  .animate-marquee {
+    animation: marquee 20s linear infinite;
+  }
+  
+  .animate-marquee:hover {
+    animation-play-state: paused;
+  }

@@ -1,0 +1,124 @@
+[
+  {
+    "id": "1",
+    "type": "main",
+    "image": "https://specials-images.forbesimg.com/imageserve/68537d77b3446e19c7276276/768x0.jpg",
+    "title": "Breaking News: Global Economy Shifts",
+    "description": "Analysts are observing significant changes in global economic indicators, suggesting a new era of financial landscapes. This detailed report covers the causes and potential impacts.",
+    "fullContent": "The global economy is undergoing a transformative period, driven by technological advancements, evolving trade policies, and shifting consumer behaviors. Experts predict a future where adaptability and innovation will be key to success. This article delves deeper into specific sectors, including technology, finance, and manufacturing, to provide a comprehensive outlook on what lies ahead. We explore the rise of digital currencies, the impact of AI on labor markets, and the push towards sustainable energy solutions. Furthermore, geopolitical tensions continue to play a role, influencing supply chains and international investments. Understanding these dynamics is crucial for businesses and individuals alike to navigate the complexities of the modern world. Special attention is given to emerging markets and their growing influence on the global stage.",
+    "date": "June 21, 2025",
+    "time": "10:30 AM",
+    "author": "John Doe"
+  },
+  {
+    "id": "2",
+    "type": "main",
+    "image": "https://specials-images.forbesimg.com/imageserve/68480a047ac4124f86f63123/768x0.jpg",
+    "title": "Innovation in Tech: The Rise of AI",
+    "description": "Artificial Intelligence continues to evolve at an unprecedented pace, transforming industries and daily lives. Discover the latest breakthroughs and their implications.",
+    "fullContent": "Artificial Intelligence (AI) is no longer a futuristic concept but a present reality, deeply integrated into various aspects of our lives. From personalized recommendations to advanced medical diagnostics, AI's capabilities are expanding rapidly. This piece explores the cutting-edge developments in machine learning, neural networks, and natural language processing that are pushing the boundaries of what's possible. We also discuss the ethical considerations and challenges associated with AI development, such as data privacy, algorithmic bias, and job displacement. The focus shifts to how AI is being leveraged in smart cities, autonomous vehicles, and sustainable agriculture, promising a more efficient and interconnected world. Collaboration between researchers, policymakers, and industry leaders is essential to ensure AI benefits all of humanity.",
+    "date": "June 20, 2025",
+    "time": "09:00 AM",
+    "author": "Jane Smith"
+  },
+  {
+    "id": "3",
+    "type": "main",
+    "image": "https://specials-images.forbesimg.com/imageserve/6848b7454c14e2cfdd59711b/768x0.jpg",
+    "title": "Climate Action: New Global Initiatives",
+    "description": "Nations worldwide are pledging new commitments to combat climate change, with innovative solutions and collaborative efforts taking center stage.",
+    "fullContent": "The urgency of climate action has led to a surge in global initiatives aimed at reducing greenhouse gas emissions and promoting sustainable practices. This article highlights the groundbreaking policies and technological innovations being implemented across continents. We delve into renewable energy projects, carbon capture technologies, and reforestation efforts that are showing promising results. The role of international agreements and cross-border collaborations in achieving ambitious climate goals is also examined. Furthermore, the impact of climate change on vulnerable communities and ecosystems is discussed, emphasizing the need for equitable and inclusive solutions. Public awareness and individual actions are also crucial components of this collective effort to protect our planet for future generations.",
+    "date": "June 19, 2025",
+    "time": "02:45 PM",
+    "author": "Robert Johnson"
+  },
+  {
+    "id": "4",
+    "type": "child",
+    "image": "https://specials-images.forbesimg.com/imageserve/68513624afad80f77ec7c88a/768x0.jpg",
+    "title": "Local Community Event Success",
+    "description": "A recent community event brought together thousands, fostering local spirit and supporting various charitable causes.",
+    "fullContent": "The annual community fair was a resounding success, drawing a record number of attendees and participants. Local businesses showcased their products, while various non-profit organizations raised significant funds for their causes. The event featured live music, food stalls, and family-friendly activities, creating a vibrant atmosphere. Volunteers played a crucial role in the seamless execution of the event, demonstrating the strong community spirit. The positive feedback from residents and visitors alike highlights the importance of such gatherings in fostering social cohesion and support networks. Plans are already underway for an even larger event next year, promising more entertainment and opportunities for community engagement.",
+    "date": "June 18, 2025",
+    "time": "04:15 PM",
+    "author": "Emily White"
+  },
+  {
+    "id": "5",
+    "type": "child",
+    "image": "https://specials-images.forbesimg.com/imageserve/684706c1b29855ea0329dc3f/768x0.jpg",
+    "title": "Health Breakthroughs: New Treatments",
+    "description": "Researchers have announced significant advancements in treating chronic diseases, offering new hope to millions worldwide.",
+    "fullContent": "Breakthroughs in medical research are paving the way for revolutionary treatments for conditions that were once considered incurable. This article focuses on new therapeutic approaches, including gene therapy, personalized medicine, and innovative drug delivery systems. Scientists are making remarkable progress in understanding the underlying mechanisms of diseases, leading to more targeted and effective interventions. The collaborative efforts of researchers, clinicians, and pharmaceutical companies are accelerating the development and availability of these life-changing treatments. While challenges remain, the future of healthcare looks brighter with these ongoing advancements. Patients are encouraged to discuss these new options with their healthcare providers to determine suitability.",
+    "date": "June 17, 2025",
+    "time": "11:00 AM",
+    "author": "David Green"
+  },
+  {
+    "id": "6",
+    "type": "child",
+    "image": "https://specials-images.forbesimg.com/imageserve/683f0f1d42122af592357a29/768x0.jpg",
+    "title": "Space Exploration: Mars Mission Updates",
+    "description": "The latest Mars mission provides stunning new data, bringing us closer to understanding the red planet.",
+    "fullContent": "The ongoing Mars mission continues to captivate the world with its discoveries and stunning imagery. Recent data transmissions reveal unprecedented insights into the planet's geological history, atmospheric conditions, and potential for past life. Scientists are meticulously analyzing samples and photographs, pushing the boundaries of our knowledge about the solar system. The engineering marvels involved in designing and operating rovers on such a distant planet are truly remarkable. Future missions are already in the planning stages, with ambitions to bring back samples to Earth and eventually send human explorers. Space exploration not only expands our scientific understanding but also inspires future generations to pursue careers in STEM fields.",
+    "date": "June 16, 2025",
+    "time": "01:30 PM",
+    "author": "Sarah Brown"
+  },
+  {
+    "id": "7",
+    "type": "relative",
+    "title": "Future of Work: Remote Models",
+    "date": "June 15, 2025",
+    "time": "09:45 AM"
+  },
+  {
+    "id": "8",
+    "type": "relative",
+    "title": "Art & Culture: New Museum Exhibit",
+    "date": "June 14, 2025",
+    "time": "03:20 PM"
+  },
+  {
+    "id": "9",
+    "type": "relative",
+    "title": "Sports News: Championship Finals",
+    "date": "June 13, 2025",
+    "time": "08:00 PM"
+  },
+  {
+    "id": "10",
+    "type": "relative",
+    "title": "Travel Guide: Top Summer Destinations",
+    "date": "June 12, 2025",
+    "time": "07:10 AM"
+  },
+  {
+    "id": "11",
+    "type": "relative",
+    "title": "Food Trends: Plant-Based Cuisine",
+    "date": "June 11, 2025",
+    "time": "12:00 PM"
+  },
+  {
+    "id": "12",
+    "type": "relative",
+    "title": "Education Reform: New Curriculum",
+    "date": "June 10, 2025",
+    "time": "05:30 PM"
+  },
+  {
+    "id": "13",
+    "type": "relative",
+    "title": "Science Discovery: Quantum Physics",
+    "date": "June 09, 2025",
+    "time": "01:00 PM"
+  },
+  {
+    "id": "14",
+    "type": "relative",
+    "title": "Fashion Week Highlights",
+    "date": "June 08, 2025",
+    "time": "06:00 PM"
+  }
+]

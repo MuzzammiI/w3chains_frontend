@@ -1,0 +1,147 @@
+/* src/index.css */
+@import "tailwindcss"; 
+@tailwind utilities;
+
+/* @import "@fortawesome/fontawesome-free/css/all.min.css"; Keep this if needed */
+
+/* src/index.css */
+
+/* -------------------------------------------------------------------------- */
+/* 1. Tailwind CSS Directives */
+/* These should always come first in your main CSS file for Tailwind to work correctly */
+@tailwind utilities;
+
+/* -------------------------------------------------------------------------- */
+/* 2. Global Base Styles */
+/* These apply to the entire body or define global variables/resets */
+body {
+    background-color: #121212; /* Ensure this is your desired global background */
+    color: white; /* Global text color */
+    font-family: 'Inter', sans-serif; /* Your preferred global font */
+    scroll-behavior: smooth;
+}
+
+
+/* Import Font Awesome if you need it */
+/* Make sure @fortawesome/fontawesome-free is installed: npm install @fortawesome/fontawesome-free */
+@import "@fortawesome/fontawesome-free/css/all.min.css";
+
+
+/* -------------------------------------------------------------------------- */
+/* 3. Custom Scrollbar Styles (2px Purple) */
+/* Apply these classes to elements that should have custom scrollbars */
+
+/* For WebKit browsers (Chrome, Safari, Edge, Opera) */
+/* Vertical scrollbar */
+.custom-scrollbar::-webkit-scrollbar {
+    width: 2px; /* Vertical scrollbar width */
+}
+.custom-scrollbar::-webkit-scrollbar-track {
+    background: #333; /* Darker track */
+    border-radius: 10px;
+}
+.custom-scrollbar::-webkit-scrollbar-thumb {
+    background: #9333ea; /* Tailwind purple-600 */
+    border-radius: 10px;
+}
+.custom-scrollbar::-webkit-scrollbar-thumb:hover {
+    background: #7e22ce; /* Tailwind purple-700 on hover */
+}
+
+/* Horizontal scrollbar */
+.custom-scrollbar-horizontal::-webkit-scrollbar {
+    height: 2px; /* Horizontal scrollbar height */
+}
+.custom-scrollbar-horizontal::-webkit-scrollbar-track {
+    background: #333; /* Darker track */
+    border-radius: 10px;
+}
+.custom-scrollbar-horizontal::-webkit-scrollbar-thumb {
+    background: #9333ea; /* Tailwind purple-600 */
+    border-radius: 10px;
+}
+.custom-scrollbar-horizontal::-webkit-scrollbar-thumb:hover {
+    background: #7e22ce; /* Tailwind purple-700 on hover */
+}
+
+/* For Firefox */
+.custom-scrollbar,
+.custom-scrollbar-horizontal {
+  scrollbar-width: thin; /* Firefox: makes it thin */
+  scrollbar-color: #9333ea #333; /* thumb color track color for Firefox (purple-600 thumb, dark track) */
+}
+
+/* For Internet Explorer and Edge (Legacy) */
+.custom-scrollbar,
+.custom-scrollbar-horizontal {
+  -ms-overflow-style: -ms-autohiding-scrollbar; /* Auto-hiding for IE/Edge */
+}
+
+
+/* -------------------------------------------------------------------------- */
+/* 4. Custom Component Specific Styles & Overrides */
+
+/* Category Card Animations/Transitions */
+.category-card {
+    opacity: 0;
+    transform: translateY(20px);
+    transition: opacity 0.5s ease, transform 0.5s ease;
+}
+.category-card.visible {
+    opacity: 1;
+    transform: translateY(0);
+}
+.category-card:hover {
+    transform: scale(1.05);
+    transition: transform 0.3s ease;
+}
+
+/* Generic Button Hover Animation (e.g., for .btn-animation class) */
+.btn-animation:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+}
+
+/* Table Row Hover Effect (e.g., for .table-row-hover class) */
+.table-row-hover:hover {
+    background-color: #2d3748; /* bg-gray-800 */
+    transform: scale(1.01);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Sidebar Item Styles */
+.sidebar-item-active {
+    background-color: #1a202c; /* bg-gray-900 */
+    border-left: 4px solid #3b82f6; /* blue-500 */
+    transform: translateX(5px);
+    transition: all 0.2s ease-out;
+}
+.sidebar-item:hover {
+    background-color: #2d3748; /* bg-gray-800 */
+    transform: translateX(2px);
+}
+
+
+/* -------------------------------------------------------------------------- */
+/* 5. Custom Tailwind Utility Classes (using @apply) */
+/* These are typically defined in `tailwind.config.js` or directly here if simpler */
+
+.bg-blue-mix {
+    @apply bg-gray-900 bg-gradient-to-br from-blue-900 via-gray-900 to-purple-900;
+}
+
+.bg-purple-mix {
+    @apply bg-gradient-to-r from-gray-900 to-violet-900/90;
+}
+
+.bg-green-mix {
+    @apply bg-gradient-to-r from-gray-900 to-teal-900/90;
+}
+
+
+
+
+
+
+
+
